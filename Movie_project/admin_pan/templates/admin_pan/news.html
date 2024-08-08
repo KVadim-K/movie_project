@@ -1,0 +1,19 @@
+{% extends 'films/layoute.html' %}
+
+{% block title %}
+    <title> Страница с фильмами </title>
+{% endblock %}
+
+{% block content%}
+
+    <h1>Фильмы</h1>
+
+
+    {% for film in films %}
+        <h2>{{ film.title }}</h2>
+        <p>{{ film.short_description }}</p>
+        <p>{{ film.text }}</p>
+        <p>{{ film.pub_date }}</p>
+    {% endfor %}
+
+{% endblock %}
