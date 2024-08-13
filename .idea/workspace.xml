@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c70c24d0-a9ee-418e-9e8b-46138fab19af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Movie_project/admin_pan/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie_project/admin_pan/templates/admin_pan/add_film.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie_project/admin_pan/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie_project/admin_pan/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/admin_pan/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie_project/admin_pan/templates/admin_pan/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/admin_pan/templates/admin_pan/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie_project/admin_pan/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/admin_pan/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie_project/admin_pan/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/admin_pan/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie_project/admin_pan/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/admin_pan/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie_project/films/templates/films/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/films/templates/films/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movie_project/films/templates/films/layoute.html" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/films/templates/films/layoute.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movie_project/films/templates/films/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/Movie_project/films/templates/films/new.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

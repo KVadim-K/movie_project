@@ -3,8 +3,8 @@ from .models import News_post
 from . forms import News_postForm
 
 def home(request):
-	films = News_post.objects.all()
-	return render(request, 'admin_pan/news.html' , {'films': films})
+	films = News_post.objects.all().order_by('-pub_date') #В этом примере `-pub_date` указывает на то, что вы хотите отсортировать записи в убывающем порядке по полю `pub_date`
+	return render(request, 'admin_pan/news.html', {'films': films})
 
 
 def create_film(request):
