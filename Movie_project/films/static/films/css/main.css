@@ -1,3 +1,10 @@
 body{
     background-color: Lavender;
 }
+aside {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    height: 100vh; /* Высота боковой панели равна высоте окна просмотра */
+    overflow-y: auto; /* Добавьте прокрутку, если контент превышает высоту */
+}
